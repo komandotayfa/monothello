@@ -1,6 +1,6 @@
-from Tkinter import Tk, Menu, Label, Frame, Button
-from Tkinter import BOTH, LEFT, RIGHT, NORMAL, DISABLED
-import tkMessageBox
+from tkinter import Tk, Menu, Label, Frame, Button
+from tkinter import BOTH, LEFT, RIGHT, NORMAL, DISABLED
+#import tkMessageBox
 from engine import Engine, EmptyPiece, Player1Piece, Player2Piece
 
 #TODO centralize 'messages' somewhere - there's duplication in code
